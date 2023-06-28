@@ -1,6 +1,6 @@
 function giveExcuse() {
 
-    let who = ['the dog', 'my granma', 'his turtle', 'my bird', 'her sister'];
+    let who = ['the dog', 'my granma', 'his turtle', 'my bird', 'her sister', 'the rooster'];
     let what = ['eat', 'pissed', 'crushed', 'broked', 'dreamed', 'loved'];
     let when = ['before the class', 'right in time', 'when I finished', 'during my lunch', 'while I was praying'];
 
