@@ -1,3 +1,8 @@
-p {
-    background: red;
+.box {
+    height: 100px;
+    width: 100px;
+    float: left;
+    background: lightblue;
+    text-align: center;
+    overflow: hidden;
 }
