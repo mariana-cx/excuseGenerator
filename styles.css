@@ -20,6 +20,7 @@ button {
     background-color:darkblue;
     color:aliceblue;
     padding: 10px;
+    margin-left: 20px;
   }
   
 button:hover {
